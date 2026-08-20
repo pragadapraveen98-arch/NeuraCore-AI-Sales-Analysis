@@ -1,6 +1,5 @@
 # NeuraCore AI Sales Analysis
 
-An Excel-based analysis of NeuraCore's sales, client, product, and support data. Raw data lives in five source tables; each `SheetN` tab answers one business question with a pivot/summary table, with the question stated in cell **A1**.
 
 ## Data
 
