@@ -28,11 +28,6 @@ An Excel-based analysis of NeuraCore's sales, client, product, and support data.
 ### Sheet4 — Win rate by sales rep and by team
 **Answer:** Across all deals, **30.4% are "Won"** (the next largest statuses are Pending at 19.2% and Lost at 20%). This distribution is the same across every rep/team, since it reflects each deal-status's share of the overall total rather than a per-rep win rate.
 
-### Sheet5 — Total revenue and units sold by product, and by product category *(new)*
-**Answer:** Top product is **Vision QC Inspector** ($95,260 / 77 units), followed by Fraud Detection Shield ($61,085) and Chatbot Suite Pro ($59,550). By category, **Conversational AI** leads with $111,275 across 174 units, ahead of Computer Vision ($95,260) and Sales AI ($76,100).
-
-### Sheet6 — Support ticket volume, average resolution time, and satisfaction score by issue type; ticket count by status *(new)*
-**Answer:** **Data Sync Error** is the most common issue (17 tickets), followed by Feature Request and Billing Query (14 each). Fastest average resolution is **API Error (12.9 hrs)**; slowest is **Integration Help (47.0 hrs)**, which also has the highest satisfaction score (4.5/5). Onboarding Help has the lowest satisfaction (1.75/5). By status: 24 Closed, 21 Pending, 19 Escalated, 19 Open, 9 In Progress. 14 tickets had a negative resolution time (data-entry error) and were excluded from the average.
 
 ## Files
 
